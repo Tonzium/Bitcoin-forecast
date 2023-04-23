@@ -3,8 +3,7 @@
 This is just for fun project.
 
 I collected Bitcoin data from CoinMarketCap, which provided me historical Bitcoin prices and other related metrics.
-I started by gathering data on key metrics such as Bitcoin price, market capitalization, trading volume,
-and other relevant factors that could impact Bitcoin's value over time.
+I started by gathering data on key metrics such as Bitcoin price, market capitalization and trading volume.
 
 Next, I used the SARIMAX model to develop a forecasting model for Bitcoin "closing" prices.
 This allowed me to predict future price trends and identify potential market opportunities for investors.
