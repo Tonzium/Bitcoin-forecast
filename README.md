@@ -2,7 +2,7 @@
 
 This is just for fun project.
 
-I collected Bitcoin data from CoinMarketCap, which provided me with a wealth of information on historical Bitcoin prices and other related metrics.
+I collected Bitcoin data from CoinMarketCap, which provided me historical Bitcoin prices and other related metrics.
 I started by gathering data on key metrics such as Bitcoin price, market capitalization, trading volume,
 and other relevant factors that could impact Bitcoin's value over time.
 
